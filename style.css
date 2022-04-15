@@ -10,7 +10,7 @@
 }
 
 .im{
-    width: 300px;
+    max-width: 500px;
     height: 100%;
 }
 body{
@@ -24,15 +24,30 @@ body{
 .left-1{
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 .t{
     display: flex;
     justify-content: center;
-    text-align: center;
-    padding-left: 30%;
+   align-items: center;
+   padding-left: 25%;
 }
 .pp{
     display: flex;
     flex-direction: row;
 }
+.right{
+   justify-content:space-around;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+}
+.butt{
+    height: 30px;
+    background-color: yellow;
+    color: black;
+    border-radius: 24px;
+    border: 0px solid yellow;
+    cursor: pointer;
 }
