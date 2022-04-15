@@ -23,12 +23,16 @@ body{
 {
 .left-1{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 .t{
     display: flex;
     justify-content: center;
     text-align: center;
-    padding-left: 23%;
+    padding-left: 30%;
+}
+.pp{
+    display: flex;
+    flex-direction: row;
 }
 }
