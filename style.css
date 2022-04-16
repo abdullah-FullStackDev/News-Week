@@ -17,6 +17,8 @@
 }
 body{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 .w{
     width: 25px;
@@ -52,6 +54,7 @@ margin: auto;
     display: flex;
     flex-direction: column;
     padding-top: 10px;
+    background-color: rgb(239, 238, 238);
 }
 .bb{
     font-size: 20px;
@@ -61,12 +64,29 @@ margin: auto;
     cursor: pointer;
     width: 8%;
 }
+.bbb{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 8%;
+}
  .b:hover{
      color: #f72210;
  }
+ .bb:hover{
+    color: #f72210;
+}
+.bbb:hover{
+    color: #f72210;
+}
  .right{
      display: flex;
      align-items: center;
+ }
+ .hr{
+     margin-bottom: 0px;
  }
  /*width more than 950px*/
 
