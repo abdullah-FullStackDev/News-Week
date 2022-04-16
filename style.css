@@ -35,6 +35,18 @@ margin: auto;
 .co{
     color: #fff;
 }
+.b{
+    border-right: 1px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 8.3%;
+    text-align: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
  /*width more than 950px*/
 
 @media (min-width:950px) 
