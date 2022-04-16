@@ -116,6 +116,12 @@ margin: auto;
  .mt{
      margin-top: 10px;
  }
+ .pppp{
+     background-color: black;
+     border-radius: 50%;
+     color: #fff;
+     width: 50px;
+ }
  /*width more than 950px*/
 
 @media (min-width:950px) 
