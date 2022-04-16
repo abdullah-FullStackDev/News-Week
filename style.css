@@ -101,6 +101,21 @@ margin: auto;
      color: black;
      background-color: black;
  }
+ .ppp{
+     width: 70px;
+     max-width: 100%;
+ }
+ .r{
+     display: flex;
+     flex-direction: row;
+ }
+ .rr{
+    display: flex;
+    flex-direction: row-reverse;
+}
+ .mt{
+     margin-top: 10px;
+ }
  /*width more than 950px*/
 
 @media (min-width:950px) 
