@@ -23,12 +23,15 @@ body{
     width: 25px;
     height: 25px;
 }
-@media (min-width:1000px) 
+@media (min-width:950px) 
 {
 .left-1{
     display: flex;
     flex-direction: column;
     padding-top: 20px;
+}
+#dff{
+    display: none;
 }
 .t{
     display: flex;
@@ -40,18 +43,12 @@ body{
     display: flex;
     flex-direction: row;
 }
-.right{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
 }
 .butt{
     height: 30px;
     background-color: yellow;
     color: black;
     border-radius: 24px;
-    border: 3px dotted black;
     cursor: pointer;
 }
 .m{
@@ -60,18 +57,22 @@ margin: auto;
 .co{
     color: #fff;
 }
-@media (max-width:900px){
+@media (max-width:950px){
     .df{
 display: none;
-    }
-    .right{
-        display: flex;
-        flex-direction: row;
-        align-items: center;
     }
     .ff{
         width:100%;
         max-width: 200px;
         height: 100%;
     }
+    .icn{
+        padding-left: 10px;
+        color: gray;
+    }
+}
+.right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
