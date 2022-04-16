@@ -39,14 +39,23 @@ margin: auto;
     border-right: 1px solid black;
     font-size: 20px;
     font-weight: bold;
-    width: 8.3%;
     text-align: center;
+    cursor: pointer;
+    width: 4%;
 }
+
 nav{
     display: flex;
     flex-direction: row;
     padding-top: 10px;
 }
+ .b:hover{
+     color: #f72210;
+ }
+ .right{
+     display: flex;
+     align-items: center;
+ }
  /*width more than 950px*/
 
 @media (min-width:950px) 
