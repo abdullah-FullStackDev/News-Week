@@ -68,7 +68,7 @@ display: none;
     }
     .icn{
         padding-left: 10px;
-        color: gray;
+       cursor: pointer;
     }
 }
 .right{
