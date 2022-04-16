@@ -1,3 +1,4 @@
+ /*needed in very size of screen*/
 .hh{
     background-color: #f72210;
     display: flex;
@@ -21,7 +22,21 @@ body{
     width: 25px;
     height: 25px;
 }
+.butt{
+    height: 30px;
+    background-color: yellow;
+    color: black;
+    border-radius: 24px;
+    cursor: pointer;
+}
+.m{
+margin: auto;
+}
+.co{
+    color: #fff;
+}
  /*width more than 950px*/
+
 @media (min-width:950px) 
 {
 
@@ -44,21 +59,10 @@ body{
     flex-direction: row;
 }
 }
-.butt{
-    height: 30px;
-    background-color: yellow;
-    color: black;
-    border-radius: 24px;
-    cursor: pointer;
-}
-.m{
-margin: auto;
-}
-.co{
-    color: #fff;
-}
  /*width less than 950px*/
-@media (max-width:950px){
+
+@media (max-width:950px)
+   {
     .df{
 display: none;
     }
@@ -71,9 +75,4 @@ display: none;
         padding-left: 10px;
        cursor: pointer;
     }
-}
-.right{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
 }
