@@ -9,7 +9,9 @@
     padding-right: 5px;
     justify-content: space-between;
 }
-
+.c{
+    color: #6c757d;
+}
 .im{
     width: 100%;
     max-width: 500px;
@@ -120,7 +122,7 @@ margin: auto;
      background-color: black;
      border-radius: 50%;
      color: #fff;
-     width: 50px;
+     width: 30px;
  }
  /*width more than 950px*/
 
