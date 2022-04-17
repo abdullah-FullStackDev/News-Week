@@ -153,6 +153,11 @@ margin: auto;
         font-size: 25px;
         font-weight: 600;
     }
+    .container-5{
+        border: 1px solid black;
+        padding: 20px;
+        padding-bottom: 5px;
+    }
  /*width more than 950px*/
 
 @media (min-width:950px) 
