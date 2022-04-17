@@ -125,10 +125,12 @@ margin: auto;
      width: 30px;
  }
  .wi{
-
-     height: 70px;
-     margin: 5px auto;
- }
+    height: 70px;
+    margin: auto;
+}
+.wii{
+    width: 100px;
+}
  .container-2{
      max-width: 100%;
      padding-left: 20px;
@@ -140,6 +142,7 @@ margin: auto;
     .dc{
         display: flex;
         flex-direction: column;
+        padding-left: 10px;
     }
  /*width more than 950px*/
 
