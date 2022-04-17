@@ -186,10 +186,11 @@ margin: auto;
       }
       .wid{
           width: 100%;
+    margin-top: 5px;
       }
  /*width more than 950px*/
 
-@media (min-width:950px) 
+@media (min-width:800px) 
 {
  .st{
      position: sticky;
@@ -215,11 +216,8 @@ margin: auto;
 }
  /*width less than 950px*/
 
-@media (max-width:950px)
+@media (max-width:800px)
    {
-    .df{
-display: none;
-    }
     .ff{
         width:100%;
         max-width: 200px;
@@ -230,3 +228,9 @@ display: none;
        cursor: pointer;
     }
 }
+@media (max-width:950px){
+    .df{
+        display: none;
+            }
+}
+ 
