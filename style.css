@@ -188,6 +188,9 @@ margin: auto;
           width: 100%;
     margin-top: 5px;
       }
+      .box{
+          border: 1px solid black;
+      }
  /*width more than 950px*/
 
 @media (min-width:800px) 
@@ -195,7 +198,6 @@ margin: auto;
  .st{
      position: sticky;
      top: 0px;
-     bottom: 500px;
  }
 .left-1{
     display: flex;
