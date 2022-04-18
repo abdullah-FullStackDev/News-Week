@@ -8,6 +8,11 @@
     padding-left: 5px;
     padding-right: 5px;
     justify-content: space-between;
+    position: fixed;
+    top: 0;
+}
+.ptt{
+    margin-top: 125px;
 }
 .c{
     color: #6c757d;
