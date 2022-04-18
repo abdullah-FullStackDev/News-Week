@@ -192,7 +192,14 @@ margin: auto;
           border: 1px solid black;
       }
       .fzzz{
-          font-size: 15px;
+          font-size: 14px;
+      }
+      .pb{
+          padding-bottom: 10px;
+      }
+      .widt{
+          height: 125px;
+          max-width: 100%;
       }
  /*width more than 950px*/
 
