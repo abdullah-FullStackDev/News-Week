@@ -195,6 +195,7 @@ margin: auto;
  .st{
      position: sticky;
      top: 0px;
+     bottom: 500px;
  }
 .left-1{
     display: flex;
