@@ -258,4 +258,9 @@ margin: auto;
         display: none;
             }
 }
+@media (max-width:1200px){
+    .dff{
+        display: none;
+            }
+}
  
