@@ -240,6 +240,9 @@ margin: auto;
 
 @media (max-width:800px)
    {
+       .pll{
+           padding-left: 10px;
+       }
     .ff{
         width:100%;
         max-width: 200px;
