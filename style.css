@@ -276,4 +276,14 @@ margin: auto;
         display: none;
             }
 }
+.img-of{
+    min-width: 200px;
+    max-width: 100%;
+}
+@media (max-width:700px){
+   .min-width{
+    min-width: 100%;   
+    }
+    
+}
  
