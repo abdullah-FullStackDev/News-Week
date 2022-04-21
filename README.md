@@ -2,7 +2,7 @@
 this is made with html5 and css3
 > This project consists of building a News-Week, to understand the use of css frameworks, in this project i used HTML5/CSS3 for making the front-end of this web-site and i wanted to know how HTML5/CSS3 works.
 
-![Alt text](https://github.com/abdullah-FullStackDev/Home-Pluralsight-Login-Page-Clone/blob/main/ss(of%20webpage).png)
+![Alt text](https://github.com/abdullah-FullStackDev/News-Week/blob/main/ss%20of%20news%20week.png)
 
 ## Built With
 
@@ -10,7 +10,7 @@ this is made with html5 and css3
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/Home-Pluralsight-Login-Page-Clone/)
+[Live Demo Link]()
 
 ## Getting Started
 
