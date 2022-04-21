@@ -253,9 +253,7 @@ margin: auto;
 
 @media (max-width:800px)
    {
-       .pll{
-           padding-left: 10px;
-       }
+      
     .ff{
         width:100%;
         max-width: 200px;
@@ -314,7 +312,7 @@ padding-bottom: 10px;
     padding-right: 10px;
 }
 .tex{
-    align-self: flex-end!important;
+    align-self: flex-end !important;
 }
 .al{
     align-self: center;
@@ -330,4 +328,11 @@ padding-bottom: 10px;
     color: black;
     padding-left: 10px;
     padding-right: 10px;
+}
+@media (max-width:450px){
+    .dcc{
+        display: flex;
+  flex-direction: column;
+  width: 80%;
+    }
 }
